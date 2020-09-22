@@ -4,7 +4,17 @@
       "id": 1,
       "title": "json-server",
       "author": "typicode"
-    }    
+    },
+    {
+      "title": "itis-6177",
+      "author": "Harsha",
+      "id": 2
+    },
+    {
+      "title": "itis-3135",
+      "author": "my TA",
+      "id": 3
+    }
   ],
   "comments": [
     {
